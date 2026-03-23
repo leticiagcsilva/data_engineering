@@ -3,7 +3,7 @@
 Welcome to the **Cloud Data Engineer** lab — a portfolio-style repository that showcases real-world data engineering and data science projects using modern cloud technologies such as AWS, GCP, and open public data.
 
 This repository is structured to reflect professional development practices, with each subproject demonstrating specific cloud pipelines, automation techniques, and scalable architectures.
-``  
+
 ---
 
 ## Subprojects
